@@ -1,4 +1,5 @@
-# ML-project_1
+# How different models respond
+
 In this project different models were observed and the performance of those models were noted, the problems that were looked at were binary classification problems.
 This included 4 datasets and 5 models.
 The models that were used included: Decsion Tree, SVM, Logistic regression, Knn, Multi layer perceptron,
